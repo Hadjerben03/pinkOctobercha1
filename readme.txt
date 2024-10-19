@@ -1,4 +1,3 @@
-some comments i put for my next projects:
 
 Imports:
 import numpy as np  # numerical computations with arrays and matrices.
