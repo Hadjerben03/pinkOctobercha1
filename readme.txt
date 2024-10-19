@@ -1,4 +1,9 @@
-
+team members description:
+benabdallah hadjer
+kerrouchi maroua
+belhadj aya
+saidj yasmine
+belakebi rania
 Imports:
 import numpy as np  # numerical computations with arrays and matrices.
 import pandas as pd  # data manipulation and analysis.
